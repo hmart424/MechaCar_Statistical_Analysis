@@ -13,3 +13,11 @@
 
 *Lot 1 and 2 meet manufacturing specifications as the variance and Sd are both under 100 pounds while lot 3 is not
 
+## T-Tests on Suspension Coils
+
+![Screen Shot 2022-04-18 at 11 46 39 PM](https://user-images.githubusercontent.com/95835840/163922158-aae14893-1f46-4c7c-9e45-8c1027c1a5f3.png)
+
+* As we can see the overall p-value for lot 1 is (1) which is outside the significance level of 1 as is lot 2 (.6072) The only lot with a p-level under .5 is lot 3. Resulting in a confidence interval of 95 percent. Meaning there is not enough data to reject the null hypothesis. Also the dataset mean and the population mean are statistically similar.
+
+## Study design: MechaCar vs Competition
+
