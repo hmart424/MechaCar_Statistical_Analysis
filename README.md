@@ -21,3 +21,18 @@
 
 ## Study design: MechaCar vs Competition
 
+Our purpose is to design the best possible MechaCar to perform above the general marketplace for vehicles.  
+A few metrics to compare include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, or safety rating. 
+
+### The data will meet the following metrics:
+
+* All data is to be numerical
+* Data samples will be as large as possible
+* Data samples need to be randomly selected
+* Variance of data needs to be similar
+
+* Null hypothesis -  MechCar is safer than the competition 
+* Alternative hypothesis - MechaCar is not safer than the competition 
+
+I would recommend using the t-test to compare dataset with competitors. Using a multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar and their competitors. Our t-test will be comparing the population of all types of competitor vehicles.
+
